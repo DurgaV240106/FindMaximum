@@ -46,12 +46,11 @@ def max_marks(marks):
     return a
     
 ```
-## Sample Input and Output
+
+## Output:
 ![Alt text](sort-1.png)
 ![Alt text](list-1.png)
 ![Alt text](buildin-1.png)
-
-## Output:
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
